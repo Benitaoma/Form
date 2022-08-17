@@ -1,0 +1,36 @@
+body{
+    background-image: url(4546777.jpg);
+   background-repeat: no-repeat;
+    /*font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;*/
+    background-size: 1400px 800px;
+    text-align: center;
+   
+}
+button{
+   border-color: black;
+   width: 120px ; 
+   height: 23px ;
+   border-radius: 100px;
+   background-color: peachpuff;
+}
+#uname{
+    width: 200px ; 
+   height: 30px ;
+   border: 1px solid black;
+   border-radius: 10px;
+   border-color: rgb(255, 0, 187);
+   
+   
+}
+input{
+    background-color: peachpuff;
+    color: black;
+}
+
+#sign{
+    background-color: rgba(250, 110, 3, 0.821);
+    width: 200px ; 
+    height: 30px ;
+    border-radius: 100px;
+}
+
